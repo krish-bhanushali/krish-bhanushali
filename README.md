@@ -1,4 +1,7 @@
 ### Hi there, I'm Krish 👋.
+![Social banner for RankJay](https://github.com/krish-bhanushali/krish-bhanushali/raw/master/krish.png)
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=krish-bhanushali.krish-bhanushali)   ![GitHub followers](https://img.shields.io/github/followers/krish-bhanushali?label=Follow&style=social)
 <a href="https://twitter.com/krishbhanushal8">
   <img align="left" alt="Krish Bhanushali| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
